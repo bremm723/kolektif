@@ -1,0 +1,6 @@
+{
+  "name": "KOLEKTIF - CollaborAction Space & Coffee Hub",
+  "description": "Premium landing page, co-working space booking, and interactive menu showcase for KOLEKTIF Yogyakarta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
